@@ -1,5 +1,5 @@
 {
-  "name": "progressive-web-app",
+  "name": "tales-by-the-fireside-pwa",
   "version": "0.1.0",
   "scripts": {
     "dev": "next dev",
